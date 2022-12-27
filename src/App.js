@@ -1,9 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
-import './components/Content'
-import './components/CreatePost'
-import './components/Navbar'
-import './components/SortByBar'
+import Content from './components/content/Content'
+import CreatePost from './components/createpost/CreatePost'
+import Navbar from './components/navbar/Navbar'
+import SortByBar from './components/sortbybar/SortByBar'
 
 function App() {
   return (
