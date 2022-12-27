@@ -1,9 +1,9 @@
 # Rules for file names / code indentation
-JS/CSS Files:
-2 space indentation
-Pascal casing(ThisIsPascalCase) for file names
-Child Components should be in their own folder in the parent component file
-Folder names are lowercase all the way(thisisanexample)
+JS/CSS Files:\
+2 space indentation\
+Pascal casing(ThisIsPascalCase) for file names\
+Child Components should be in their own folder in the parent component file\
+Folder names are lowercase all the way(thisisanexample)\
 
 
 
