@@ -1,3 +1,13 @@
+# Rules for file names / code indentation
+JS/CSS Files:\
+\
+2 space indentation\
+Pascal casing(ThisIsPascalCase) for file names\
+Child Components should be in their own folder in the parent component file\
+Folder names are lowercase all the way(thisisanexample)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
